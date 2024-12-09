@@ -70,6 +70,7 @@ div main{
 }
 
 div main img{
+    width: 100%;
     max-width: 100%;
 
 }
@@ -77,6 +78,7 @@ div main img{
 h2{
     font-size: 30px;
     color: #e70c19;
+    padding: 0 20px;
 }
 
 a { 
@@ -100,5 +102,10 @@ footer{
     padding-top: 50px;
     padding-bottom: 50px;
     color: black;
+}
+
+p.caption{
+    color: #9999;
+    margin: 0;
 }
 
